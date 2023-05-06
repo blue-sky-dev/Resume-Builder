@@ -32,7 +32,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/imhardikdesai/Resume-Builder.git
+git clone https://github.com/blue-sky-dev/Resume-Builder.git
 ```
 2. Navigate to the project directory
 ```bash
@@ -56,14 +56,8 @@ npm run start
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
-### Authors
-- [Hardik Desai](http://hardikdesai.tech/)
-
 ### Contributions
 - We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
-
-### License
- - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ### Acknowledgments
 - We would like to thank our users for their support and feedback in making this website a success.
